@@ -1,4 +1,4 @@
-import Calculator from './components/UI/Calculator';
+import Calculator from './components/Calculator';
 
 const App = () => {
   return (
